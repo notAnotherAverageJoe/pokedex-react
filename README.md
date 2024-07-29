@@ -1,3 +1,5 @@
+!Pokedex Banner images/Screenshot 2024-07-29 142051.png
+
 # Pokedex
 
 Welcome to your first generation Pokedex! This project is a React application that fetches and displays information about the first 151 Pokémon from the PokéAPI. Users can see each Pokémon's name and their first ability.
